@@ -1,0 +1,26 @@
+{
+  "candidateId": "4c13bf24-f8d9-442c-9d1a-39569f355101",
+  "projectId": "638ae1f1-a226-4cc1-9b93-eb5c91182284",
+  "runId": "de0680bc-db40-473e-8385-ba00f728414e",
+  "conversationId": "02d9e084-9519-4b2f-946e-7c86f82ad215",
+  "provenance": {
+    "summary": "Detected from .od-skills/web-clone-a5a9cd5828/references/deliverables.md, CLONE_AUDIT.md after a successful run.",
+    "detectedAt": 1790451118594
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": ".od-skills/web-clone-a5a9cd5828/references/deliverables.md",
+      "label": ".od-skills/web-clone-a5a9cd5828/references/deliverables.md",
+      "size": 5065,
+      "copied": true
+    },
+    {
+      "kind": "file",
+      "value": "CLONE_AUDIT.md",
+      "label": "CLONE_AUDIT.md",
+      "size": 2088,
+      "copied": true
+    }
+  ]
+}
